@@ -10,13 +10,13 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-wx',
-    version='0.2',
+    version='0.2.1',
     packages=find_packages(),
     include_package_data=True,
     license='BSD License',
     description='A simple Django app to conduct Web-based weixin.',
     long_description=README,
-    url='http://www.w11.site/',
+    url='https://github.com/JSLeo/django-wx',
     author='leonard',
     author_email='leonard_tech@aliyun.com',
     install_requires=[

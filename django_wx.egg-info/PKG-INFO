@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: django-wx
-Version: 0.2
+Version: 0.2.1
 Summary: A simple Django app to conduct Web-based weixin.
-Home-page: http://www.w11.site/
+Home-page: https://github.com/JSLeo/django-wx
 Author: leonard
 Author-email: leonard_tech@aliyun.com
 License: BSD License
