@@ -20,9 +20,9 @@ setup(
     author='leonard',
     author_email='leonard_tech@aliyun.com',
     install_requires=[
-        'djangorestframework==3.8.2',
-        'djangorestframework-jwt==1.11.0',
-        'requests==2.19.1'
+        'djangorestframework>=3.8.2',
+        'djangorestframework-jwt>=1.11.0',
+        'requests>=2.19.1'
     ],
     classifiers=[
         'Environment :: Web Environment',
